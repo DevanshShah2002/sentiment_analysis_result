@@ -102,3 +102,8 @@ fig5 = px.bar(
 )
 fig5.update_traces(marker_line_width=1, marker_line_color="black")
 st.plotly_chart(fig5, use_container_width=True)
+
+# ---------------------- Overall sentiment ----------------------
+st.subheader("Overall sentiment")
+summary= pd.read_csv('summary.csv')
+st.dataframe(summary)

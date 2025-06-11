@@ -1,0 +1,11 @@
+AccountNumber,FirstName,Latest Review,Latest Rating,recent Date,recent ServiceInstruction,sentiment based on score,score(weighted average),latest suggestions
+1001,Alice,"Still no callback, and now I’m dealing with a larger infestation than before. Extremely disappointed.",2,6/1/2024,Severe infestation noted. Recommend full reinspection and escalation.,Negative,34.27,referral
+1002,Bob,Completely pest-free now. Good turnaround after a rough start. Thanks for making it right!,10,4/18/2024,Service closed successfully. Provided prevention tips.,Positive,81.83,referral
+1003,Charlie,"No major complaints, but also nothing outstanding. Feels like they’re cutting corners lately.",6,5/24/2024,Service completed. Recommended review by supervisor.,Neutral,53.72,up scale
+1004,David,I’ve officially given up on this company. Filed a complaint today.,2,5/23/2024,Formal complaint filed. Immediate attention required.,Negative,13.51,follow up
+1005,Eva,Great overall experience. Will probably recommend to my neighbors.,10,5/12/2024,Customer offered referral discount.,Positive,89.97,referral
+1006,Farah,No ants in sight! Should have opted for this earlier. Happy now.,10,5/17/2024,Service effective. Suggested maintenance plan.,Positive,73.87,follow up
+1007,George,This time it’s spotless. Good follow-through. Appreciate the attention to detail.,8,5/28/2024,Positive outcome. Customer satisfied.,Positive,70.41,up scale
+1008,Hannah,No pest issues ever. Happy to renew the yearly plan again!,10,5/22/2024,Annual plan renewed. Loyalty noted.,Positive,95,up scale
+1009,Ian,Considering reporting this to consumer protection. Ridiculous.,2,5/25/2024,Customer highly dissatisfied. Consider resolution plan.,Negative,17.32,follow up
+1010,Jaya,Definitely recommend for anyone looking for gradual but thorough service.,10,5/15/2024,Customer satisfied. Recommended for referral program.,Positive,87.8,referral
