@@ -86,16 +86,16 @@ summary = summary if selected_customer == "All" else summary[summary['FirstName'
 fig = go.Figure(data=[go.Table(
     header=dict(
         values=list(summary.columns),
-        fill_color='black',
+        fill_color='white',
         align='left',
-        font=dict(color='lightgreen', size=14),
+        font=dict(color='black', size=14),
         height=30
     ),
     cells=dict(
         values=[summary[col] for col in summary.columns],
-        fill_color='black',
+        fill_color='white',
         align='left',
-        font=dict(color='lightgreen', size=11),
+        font=dict(color='black', size=11),
         height=25,
         # Fix column widths (in pixels)
         # Note: this sets widths relative to whole table width, so adjust accordingly
